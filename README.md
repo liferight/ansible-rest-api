@@ -26,3 +26,4 @@ Tornado project for  Ansible Rest API service.
     cd ansible-api
     export PYTHONOPTIMIZE=1
     celery worker --app=celerytask.celeryapp.app -l info  -c 1
+test
